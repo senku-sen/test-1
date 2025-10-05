@@ -1,0 +1,25 @@
+/* Example global styles */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* CSS TO DITO KA MAG DEDESIGN      pag id ginamit mo dun sa html tag  <div id="email-field"> 
+" # " yan dapat gamitin mo   pag class naman " . " yan  
+parang ganito sa baba
+*/
+
+#email-field {
+  background-color: aqua;
+}
